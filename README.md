@@ -2,7 +2,7 @@
   <h3 align="center">Discord Copy Server Script</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A super cool script !
     <br />
     <a href="https://discord.gg/uAXebEC"><strong> ≻ Discord ≺ </strong></a>
     <br />
