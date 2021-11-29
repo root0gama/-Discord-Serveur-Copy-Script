@@ -101,4 +101,4 @@ When you have NodeJS you need to go in the folder where the js file is with a CM
    
 ### Contact
 
-<img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="" width="20" height="20"/>  : ./Personne.sh#8704
+<img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="" width="20" height="20"/>  : Gama#8704
